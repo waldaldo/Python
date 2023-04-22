@@ -8,3 +8,4 @@ lista_personas = [persona1, persona2, persona3]
 
 # Se imprime la lista de personas
 print(lista_personas)
+
