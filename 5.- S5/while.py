@@ -1,5 +1,5 @@
 # ciclo while
-# ciclo while(condicion) la considcion siempre será evaluada como True al menos que se cambie
+# ciclo while(condicion) la condición siempre será evaluada como True al menos que se cambie
 
 i = 0
 while i <= 5:
