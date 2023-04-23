@@ -8,6 +8,6 @@ consonantes = ""
 for i in range(len(palabra)):
     if palabra[i] not in "aeiíouAEIÍOU":
         consonantes += palabra[i]
-        print(f"La letra {palabra[i]} se encuentra en la posicion {i}")
+        print(f"La letra {palabra[i]} se encuentra en la posición {i}")
         
 print(consonantes)
