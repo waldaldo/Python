@@ -6,6 +6,6 @@ def factorial(n):
         contador -= 1
     return resultado
 
-a = input("ingresa un número: ")
+a = int(input("ingresa un número: "))
 
-print(f"El factorial es {factorial(int(a))}")
+print(f"El factorial es {factorial(a)}")
