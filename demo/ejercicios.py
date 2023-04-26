@@ -12,7 +12,7 @@ rt = 3/((1/r1)+(1/r2)+(1/r3))
 
 # Imprimir la resistencia
 
-print("La resistencia es: {:.3f}".format(rt))  # {:.3f} indica cuantos decimales se requieren
+print("La resistencia total es: {:.3f}".format(rt))  # {:.3f} indica cuantos decimales se requieren, en este caso 3
 
 
 
