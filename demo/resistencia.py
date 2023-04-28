@@ -12,7 +12,7 @@ rt = 3 / ((1 / r1) + (1 / r2) + (1 / r3))
 
 # Imprimir la resistencia
 
-print("La resistencia total es: {:.3f}".format(rt))  # {:.3f} indica cuantos decimales se requieren, en este caso 3
+print("La resistencia total es: {:.3f}".format(rt))  # {:.3f} indica cuantos decimales se requieren, en este caso
 
 """
 Validar el ingreso de la resistencia, que sea mayor que 0, controlar error, y utilizar funciones
@@ -27,7 +27,7 @@ def validate_input_float(texto):
             if r > 0:
                 return r
             else:
-               print("El valor es menor a 0")
+                print("El valor es menor a 0")
         except Exception as e:
             print("Ha ocurrido un error: {}".format(e))
             print("Ingrese una resistencia valida")
