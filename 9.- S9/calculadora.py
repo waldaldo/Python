@@ -1,11 +1,11 @@
 """
-# Se pide realizar una calculadora declarando funciones para cada tipo de calculo que se realice
+# Se pide realizar una calculadora declarando funciones para cada tipo de cálculo que se realice
 # realizar un menu con opciones para seleccionar que calculo se desea realizar
-# el ingreso es por consola, requerir al usuario la opcion y numeros al que se realizara el calculo
+# el ingreso es por consola, requerir al usuario la opción y números al que se realizara el cálculo
 # verificar errores de ingreso
 # verificar division por cero
 """
-# print(suma(2,1)) #funciones deben ser definidas antes de invocarlas, si estan en el mismo archivo
+# print(suma(2,1)) #funciones deben ser definidas antes de invocarlas, si están en el mismo archivo
 # def nombre_funcion(parametro1,parametro2):
 
 

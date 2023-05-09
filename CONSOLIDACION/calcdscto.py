@@ -11,4 +11,3 @@ while i < len(lista):
     i += 1
 print("El valor total de la compra es {:.2f}".format(suma))
 print("Y con un 10% de descuento queda en {:.2f}".format(suma * 0.9))
-

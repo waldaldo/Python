@@ -17,7 +17,7 @@ ventas = {
 dict_ventas = {}
 
 for producto, ventas_mensuales in ventas.items():
-    # total_ventas = sum(ventas_mensuales)
+    total_ventas = sum(ventas_mensuales)
     dict_ventas[producto] = sum(ventas_mensuales)
     print(f"El total de ventas del producto {producto} es: {total_ventas}")
 

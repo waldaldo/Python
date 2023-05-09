@@ -1,5 +1,5 @@
 """
-Se solicita crear un programa en Python que permita Ilevar el registro
+Se solicita crear un programa en Python que permita llevar el registro
 de los libros que han Sido prestados por una biblioteca.
 Para ello, se pide crear un conjunto (set) con los nombres de los libros
 prestados.
